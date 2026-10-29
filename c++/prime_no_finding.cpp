@@ -7,7 +7,7 @@ int main()
     cout<<"enter a no"<< endl;
     int x;
     cin>>x;
-    if(x==1 || x==2){
+    if(x==1 || x==2 || x==3){
         cout<<"this is prime no";
     }
     else{
@@ -31,4 +31,4 @@ int main()
       }
     }
 return 0;
-}  
+ }  
